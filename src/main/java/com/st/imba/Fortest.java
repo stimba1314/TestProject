@@ -3,7 +3,7 @@ package com.st.imba;
 public class Fortest {
 
     public void init() {
-        System.out.println("kitty&Ben");
+        System.out.println("kitty&Ben123");
     }
 
 
