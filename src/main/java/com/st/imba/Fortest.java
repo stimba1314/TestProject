@@ -11,5 +11,6 @@ public class Fortest {
         System.out.println("Peter&Tomshishabi");
         System.out.println("Peter&Tomjashjdh");
         System.out.println("Ben");
+        System.out.println("Tom");
     }
 }
