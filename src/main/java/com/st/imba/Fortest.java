@@ -8,6 +8,6 @@ public class Fortest {
 
 
     public void peter() {
-        System.out.println("Peter");
+        System.out.println("Peter&Tom");
     }
 }
