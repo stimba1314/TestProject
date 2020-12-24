@@ -10,5 +10,6 @@ public class Fortest {
     public void peter() {
         System.out.println("Peter&Tomshishabi");
         System.out.println("Peter&Tomjashjdh");
+        System.out.println("Tom");
     }
 }
