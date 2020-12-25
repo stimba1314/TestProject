@@ -6,6 +6,9 @@ public class Fortest {
         System.out.println("init of project..");
     }
 
+    public void tomfoo1() {
+        System.out.println("tom finished at 1/1..");
+    }
     public void benfoo1() {
         System.out.println("finished at 1/1..");
     }
