@@ -7,6 +7,10 @@ public class Fortest {
     }
 
     public void benfoo1() {
-        System.out.println("finished at 1/1..");
+        System.out.println("Ben finished at 1/1..");
+    }
+
+    public void benfoo2() {
+        System.out.println("Ben submit at 1/2");
     }
 }
